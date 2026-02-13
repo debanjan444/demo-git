@@ -1,2 +1,2 @@
 # demo-git
-Author = Debanjan Ghosh
+Author = Debanjan not from Ghosh
